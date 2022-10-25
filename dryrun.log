@@ -1,0 +1,45 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/d/UAQ/Septimo_Semestre/Microcontroladores/Programas/Practica_1TM4C123-ramita_1'
+ 
+mkdir -p gcc
+ 
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\stdint.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\machine\_default_types.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\features.h', needed by 'gcc/main.o'.
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\_newlib_version.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\_intsup.h', needed by 'gcc/main.o'.
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\_stdint.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h', needed by 'gcc/main.o'.
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\stdlib.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\machine\ieeefp.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\_ansi.h', needed by 'gcc/main.o'.
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\newlib.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\config.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h', needed by 'gcc/main.o'.
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\reent.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\_types.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\machine\_types.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\lock.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\cdefs.h', needed by 'gcc/main.o'.
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\machine\stdlib.h', needed by 'gcc/main.o'.
+
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\string.h', needed by 'gcc/main.o'.
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\sys\string.h', needed by 'gcc/main.o'.
+make: *** No rule to make target 'c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\math.h', needed by 'gcc/main.o'.
+
+make: Leaving directory '/d/UAQ/Septimo_Semestre/Microcontroladores/Programas/Practica_1TM4C123-ramita_1'
+ 
